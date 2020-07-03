@@ -23,7 +23,15 @@ Overview
  - pillow
  - matplotlib
 ```
- Refer requirements.txt for more accuracte details.
-
+ Refer **requirements.txt** for more accuracte details.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ **NOTE:**  Use top left corner ![Button](Button.png) to collapse and view sidebar
 
 
